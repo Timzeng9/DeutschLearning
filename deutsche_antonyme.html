@@ -6,6 +6,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>German Learning</title>
     <style>
+        .wave-text {
+          display: inline-block;
+          animation: wave 1s linear infinite; /* 设置动画 */
+        }
+        
+        @keyframes wave {
+          0% { transform: translateY(0); } /* 初始位置 */
+          25% { transform: translateY(-5px); } /* 上升 */
+          50% { transform: translateY(0); } /* 回到初始位置 */
+          75% { transform: translateY(5px); } /* 下降 */
+          100% { transform: translateY(0); } /* 回到初始位置 */
+        }
+    </style>
+    <style>
         body {
             font-family: sans-serif;
             margin: 0;
@@ -47,11 +61,17 @@
             }
         }
     </style>
-    <title>German Antonyms</title>
+    <title>Antonym</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>German Antonyms</h1>
+    <h1 class="wave-text">Antonym</h1>
+    <div class="header">
+        <select id="language-select">
+            <option value="en">English</option>
+            <option value="cn">中文</option>
+            </select>
+    </div>
     <div class="content">
         <div id="word-container">
             <span id="word"></span>
@@ -60,14 +80,14 @@
 
     </div>
     <div class="button-container">
-        <button id="show-antonym">show antonym</button>
+        <button id="show-antonym">🔍</button>
     </div>
 
     <div id="progress">
-        <span>seen: </span><span id="seen-count">0</span>
-        <span>, remaining:</span><span id="remaining-count">0</span>
+        <span id="seen-count">0</span>
+        <span> / </span><span id="total-count">0</span>
     </div>
 
-    <script src="script_en.js"></script>
+    <script src="script_antonym.js"></script>
 </body>
 </html>
