@@ -218,15 +218,15 @@ function showWord() {
         currentWord = wordList[seenCount];
         wordSpan.textContent = currentWord;
         translationSpan.textContent = `(${wordDict[currentWord].wordTranslation})`;
-        showAntonymButton.textContent = 'show antonym';
+        showAntonymButton.textContent = '显示反义词';
         showAntonymButton.onclick = showAntonym;
         seenCount++;
         remainingCount--;
         updateProgress();
     } else {
-        wordSpan.textContent = 'All done!';
+        wordSpan.textContent = '已看完!';
         translationSpan.textContent = '';
-        showAntonymButton.textContent = 'Reset';
+        showAntonymButton.textContent = '重新开始';
         showAntonymButton.onclick = reset;
     }
 }
@@ -235,7 +235,7 @@ function showAntonym() {
     const antonym = wordDict[currentWord].antonym;
     wordSpan.textContent = `${currentWord} (${wordDict[currentWord].wordTranslation}) - ${antonym} (${wordDict[currentWord].antonymTranslation})`;
     translationSpan.textContent = '';
-    showAntonymButton.textContent = 'show next';
+    showAntonymButton.textContent = '显示下一个';
     showAntonymButton.onclick = showWord;
 }
 
