@@ -23,7 +23,7 @@ function generateWordDict(data) {
             const antonym = parts[1];
             const wordTranslation = parts[2];
             const antonymTranslation = parts[3];
-            dict[word] = { antonym, wordTranslation, antonymTranslation };
+            dict[word+antonym] = { word, antonym, wordTranslation, antonymTranslation };
         }
     });
     return dict;
@@ -40,7 +40,7 @@ function shuffle(array) {
 function showWord() {
     if (remainingCount > 0) {
         currentWord = wordList[seenCount];
-        wordSpan.textContent = currentWord;
+        wordSpan.textContent = wordDict[currentWord].word;
         translationSpan.textContent = `(${wordDict[currentWord].wordTranslation})`;
         showAntonymButton.textContent = '🔍';
         showAntonymButton.onclick = showAntonym;
@@ -57,7 +57,7 @@ function showWord() {
 
 function showAntonym() {
     const antonym = wordDict[currentWord].antonym;
-    wordSpan.textContent = `${currentWord} (${wordDict[currentWord].wordTranslation}) - ${antonym} (${wordDict[currentWord].antonymTranslation})`;
+    wordSpan.textContent = `${wordDict[currentWord].word} (${wordDict[currentWord].wordTranslation}) - ${antonym} (${wordDict[currentWord].antonymTranslation})`;
     translationSpan.textContent = '';
     showAntonymButton.textContent = '➔';
     showAntonymButton.onclick = showWord;

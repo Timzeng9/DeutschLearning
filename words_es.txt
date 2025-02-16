@@ -1,0 +1,134 @@
+gut | schlecht | bueno | malo
+schön | hässlich | bonito | feo
+groß | klein | grande | pequeño
+jung | alt | joven | viejo
+schnell | langsam | rápido | lento
+dick | dünn | gordo | delgado
+hoch | niedrig | alto | bajo
+weit | nah | lejos | cerca
+hell | dunkel | claro | oscuro
+warm | kalt | cálido | frío
+süß | sauer | dulce | agrio
+stark | schwach | fuerte | débil
+früh | spät | temprano | tarde
+teuer | billig | caro | barato
+viel | wenig | mucho | poco
+hart | weich | duro | blando
+sauber | schmutzig | limpio | sucio
+glücklich | traurig | feliz | triste
+interessant | langweilig | interesante | aburrido
+einfach | schwierig | fácil | difícil
+wichtig | unwichtig | importante | no importante
+wahr | falsch | verdadero | falso
+richtig | falsch | correcto | incorrecto
+bekannt | unbekannt | conocido | desconocido
+freundlich | unfreundlich | amigable | hostil
+fleißig | faul | diligente | perezoso
+geduldig | ungeduldig | paciente | impaciente
+ehrlich | unehrlich | honesto | deshonesto
+höflich | unhöflich | educado | maleducado
+lieb | böse | querido | malvado
+schlau | dumm | inteligente | tonto
+mutig | feige | valiente | cobarde
+gesund | krank | sano | enfermo
+stumm | laut | mudo | ruidoso
+voll | leer | lleno | vacío
+arm | reich | pobre | rico
+besser | schlechter | mejor | peor
+mehr | weniger | más | menos
+genug | zu wenig | suficiente | insuficiente
+oft | selten | a menudo | raramente
+immer | nie | siempre | nunca
+froh | traurig | alegre | triste
+müde | fit | cansado | en forma
+schüchtern | selbstbewusst | tímido | seguro de sí mismo
+nervös | ruhig | nervioso | tranquilo
+optimistisch | pessimistisch | optimista | pesimista
+realistisch | unrealistisch | realista | irrealista
+logisch | unlogisch | lógico | ilógico
+aktiv | passiv | activo | pasivo
+kreativ | unkreativ | creativo | no creativo
+produktiv | unproduktiv | productivo | improductivo
+positiv | negativ | positivo | negativo
+modern | altmodisch | moderno | anticuado
+traditionell | unkonventionell | tradicional | no convencional
+flexibel | unflexibel | flexible | inflexible
+dynamisch | statisch | dinámico | estático
+komplex | einfach | complejo | simple
+global | lokal | global | local
+öffentlich | privat | público | privado
+kostenlos | kostenpflichtig | gratuito | de pago
+sozial | asozial | social | antisocial
+ökologisch | unökologisch | ecológico | no ecológico
+nachhaltig | nicht nachhaltig | sostenible | no sostenible
+frisch | alt | fresco | viejo
+saftig | trocken | jugoso | seco
+süß | bitter | dulce | amargo
+glatt | rau | liso | áspero
+scharf | stumpf | afilado | romo
+eng | weit | estrecho | ancho
+dicht | locker | denso | flojo
+fein | grob | fino | grueso
+fest | locker | firme | suelto
+fett | mager | graso | magro
+frech | artig | descarado | educado
+fromm | gottlos | piadoso | impío
+fröhlich | traurig | alegre | triste
+gefährlich | sicher | peligroso | seguro
+geizig | großzügig | tacaño | generoso
+geliebt | gehasst | amado | odiado
+gerecht | ungerecht | justo | injusto
+gespannt | entspannt | tenso | relajado
+getreu | untreu | fiel | infiel
+gewandt | ungeschickt | hábil | torpe
+glatt | holprig | liso | irregular
+glücklich | unglücklich | feliz | infeliz
+golden | silbern | dorado | plateado
+großzügig | kleinlich | generoso | mezquino
+gültig | ungültig | válido | inválido
+gut | böse | bueno | malo
+heftig | sanft | violento | suave
+heiß | kalt | caliente | frío
+hoch | tief | alto | bajo
+hungrig | satt | hambriento | saciado
+interessiert | uninteressiert | interesado | desinteresado
+kaputt | ganz | roto | entero
+klar | unklar | claro | no claro
+klug | dumm | listo | tonto
+komisch | ernst | cómico | serio
+kurz | lang | corto | largo
+laut | leise | fuerte | suave
+leicht | schwer | ligero | pesado
+lustig | traurig | divertido | triste
+müde | wach | cansado | despierto
+naiv | erfahren | ingenuo | experimentado
+nass | trocken | mojado | seco
+nett | unfreundlich | agradable | desagradable
+neugierig | uninteressiert | curioso | indiferente
+offen | geschlossen | abierto | cerrado
+ordentlich | unordentlich | ordenado | desordenado
+pünktlich | unpünktlich | puntual | impuntual
+ruhig | laut | tranquilo | ruidoso
+scharf | mild | picante | suave
+schlicht | auffällig | simple | llamativo
+schwarz | weiß | negro | blanco
+sicher | unsicher | seguro | inseguro
+sonnig | wolkig | soleado | nublado
+stolz | demütig | orgulloso | humilde
+stumm | redselig | mudo | hablador
+tapfer | feige | valiente | cobarde
+treu | untreu | leal | desleal
+trüb | klar | turbio | claro
+überrascht | unbeeindruckt | sorprendido | no impresionado
+unabhängig | abhängig | independiente | dependiente
+unendlich | endlich | infinito | finito
+unglaublich | glaubhaft | increíble | creíble
+uninteressant | interessant | no interesante | interesante
+unzufrieden | zufrieden | insatisfecho | satisfecho
+wertvoll | wertlos | valioso | sin valor
+wunderschön | hässlich | maravilloso | feo
+blind | sehend | ciego | vidente
+blöd | gescheit | estúpido | listo
+breit | schmal | ancho | estrecho
+bunt | einfarbig | colorido | monocromático
+deutlich | undeutlich | claro | poco claro

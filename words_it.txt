@@ -1,0 +1,134 @@
+gut | schlecht | buono | cattivo
+schön | hässlich | bello | brutto
+groß | klein | grande | piccolo
+jung | alt | giovane | vecchio
+schnell | langsam | veloce | lento
+dick | dünn | grasso | magro
+hoch | niedrig | alto | basso
+weit | nah | lontano | vicino
+hell | dunkel | chiaro | scuro
+warm | kalt | caldo | freddo
+süß | sauer | dolce | acido
+stark | schwach | forte | debole
+früh | spät | presto | tardi
+teuer | billig | costoso | economico
+viel | wenig | molto | poco
+hart | weich | duro | morbido
+sauber | schmutzig | pulito | sporco
+glücklich | traurig | felice | triste
+interessant | langweilig | interessante | noioso
+einfach | schwierig | facile | difficile
+wichtig | unwichtig | importante | non importante
+wahr | falsch | vero | falso
+richtig | falsch | corretto | sbagliato
+bekannt | unbekannt | conosciuto | sconosciuto
+freundlich | unfreundlich | amichevole | ostile
+fleißig | faul | diligente | pigro
+geduldig | ungeduldig | paziente | impaziente
+ehrlich | unehrlich | onesto | disonesto
+höflich | unhöflich | educato | scortese
+lieb | böse | caro | cattivo
+schlau | dumm | intelligente | stupido
+mutig | feige | coraggioso | codardo
+gesund | krank | sano | malato
+stumm | laut | muto | rumoroso
+voll | leer | pieno | vuoto
+arm | reich | povero | ricco
+besser | schlechter | migliore | peggiore
+mehr | weniger | più | meno
+genug | zu wenig | abbastanza | troppo poco
+oft | selten | spesso | raramente
+immer | nie | sempre | mai
+froh | traurig | contento | triste
+müde | fit | stanco | in forma
+schüchtern | selbstbewusst | timido | sicuro di sé
+nervös | ruhig | nervoso | calmo
+optimistisch | pessimistisch | ottimista | pessimista
+realistisch | unrealistisch | realistico | irrealistico
+logisch | unlogisch | logico | illogico
+aktiv | passiv | attivo | passivo
+kreativ | unkreativ | creativo | non creativo
+produktiv | unproduktiv | produttivo | improduttivo
+positiv | negativ | positivo | negativo
+modern | altmodisch | moderno | antiquato
+traditionell | unkonventionell | tradizionale | non convenzionale
+flexibel | unflexibel | flessibile | inflessibile
+dynamisch | statisch | dinamico | statico
+komplex | einfach | complesso | semplice
+global | lokal | globale | locale
+öffentlich | privat | pubblico | privato
+kostenlos | kostenpflichtig | gratuito | a pagamento
+sozial | asozial | sociale | antisociale
+ökologisch | unökologisch | ecologico | non ecologico
+nachhaltig | nicht nachhaltig | sostenibile | non sostenibile
+frisch | alt | fresco | vecchio
+saftig | trocken | succoso | secco
+süß | bitter | dolce | amaro
+glatt | rau | liscio | ruvido
+scharf | stumpf | affilato | smussato
+eng | weit | stretto | largo
+dicht | locker | denso | rado
+fein | grob | fine | grezzo
+fest | locker | solido | allentato
+fett | mager | grasso | magro
+frech | artig | sfacciato | educato
+fromm | gottlos | pio | empio
+fröhlich | traurig | allegro | triste
+gefährlich | sicher | pericoloso | sicuro
+geizig | großzügig | avaro | generoso
+geliebt | gehasst | amato | odiato
+gerecht | ungerecht | giusto | ingiusto
+gespannt | entspannt | teso | rilassato
+getreu | untreu | fedele | infedele
+gewandt | ungeschickt | abile | goffo
+glatt | holprig | liscio | sconnesso
+glücklich | unglücklich | felice | infelice
+golden | silbern | d'oro | d'argento
+großzügig | kleinlich | generoso | meschino
+gültig | ungültig | valido | non valido
+gut | böse | buono | cattivo
+heftig | sanft | violento | gentile
+heiß | kalt | caldo | freddo
+hoch | tief | alto | basso
+hungrig | satt | affamato | sazio
+interessiert | uninteressiert | interessato | disinteressato
+kaputt | ganz | rotto | intero
+klar | unklar | chiaro | non chiaro
+klug | dumm | intelligente | stupido
+komisch | ernst | divertente | serio
+kurz | lang | corto | lungo
+laut | leise | forte | piano
+leicht | schwer | leggero | pesante
+lustig | traurig | divertente | triste
+müde | wach | stanco | sveglio
+naiv | erfahren | ingenuo | esperto
+nass | trocken | bagnato | asciutto
+nett | unfreundlich | carino | scortese
+neugierig | uninteressiert | curioso | disinteressato
+offen | geschlossen | aperto | chiuso
+ordentlich | unordentlich | ordinato | disordinato
+pünktlich | unpünktlich | puntuale | non puntuale
+ruhig | laut | tranquillo | rumoroso
+scharf | mild | piccante | mite
+schlicht | auffällig | semplice | vistoso
+schwarz | weiß | nero | bianco
+sicher | unsicher | sicuro | insicuro
+sonnig | wolkig | soleggiato | nuvoloso
+stolz | demütig | orgoglioso | umile
+stumm | redselig | muto | loquace
+tapfer | feige | coraggioso | codardo
+treu | untreu | fedele | infedele
+trüb | klar | torbido | chiaro
+überrascht | unbeeindruckt | sorpreso | non impressionato
+unabhängig | abhängig | indipendente | dipendente
+unendlich | endlich | infinito | finito
+unglaublich | glaubhaft | incredibile | credibile
+uninteressant | interessant | non interessante | interessante
+unzufrieden | zufrieden | insoddisfatto | soddisfatto
+wertvoll | wertlos | prezioso | senza valore
+wunderschön | hässlich | bellissimo | brutto
+blind | sehend | cieco | vedente
+blöd | gescheit | stupido | intelligente
+breit | schmal | largo | stretto
+bunt | einfarbig | colorato | monocolore
+deutlich | undeutlich | chiaro | non chiaro

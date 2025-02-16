@@ -125,3 +125,10 @@ unendlich|endlich|infinite|finite
 unglaublich|glaubhaft|unbelievable|believable
 uninteressant|interessant|uninteresting|interesting
 unzufrieden|zufrieden|unsatisfied|satisfied
+wertvoll | wertlos | valuable | worthless
+wunderschön | hässlich | gorgeous | ugly
+blind | sehend | blind | sighted
+blöd | gescheit | stupid | clever
+breit | schmal | wide | narrow
+bunt | einfarbig | colorful | monochrome
+deutlich | undeutlich | clear | unclear
