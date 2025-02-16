@@ -10,27 +10,40 @@
             font-family: sans-serif;
             margin: 0;
             padding: 0;
+            display: flex; /* 使用 Flexbox 布局 */
+            flex-direction: column; /* 垂直方向布局 */
+            min-height: 100vh; /* 确保页面至少占据整个视口高度 */
         }
-        h1 {
+
+        .content {
+            flex: 1; /* 内容区域占据剩余空间 */
+            display: flex;
+            justify-content: center; /* 水平居中内容 */
+            align-items: center; /* 垂直居中内容 */
+            flex-direction: column; /* 内容垂直排列 */
             text-align: center;
         }
 
-        /* 样式调整 */
-        @media (max-width: 768px) {
-            body { font-size: 16px; }
-            h1 { font-size: 24px; }
-            button {
-                padding: 10px 20px;
+        .button-container {
+            /* 按钮容器 */
+            padding: 20px;
+            text-align: center; /* 按钮水平居中 */
+        }
+        /* 其他样式 */
+        @media (max-width: 768px) { /* 针对小屏幕设备 */
+             .content {
                 font-size: 16px;
+             }
+             .button-container {
+                 font-size: 16px;
             }
         }
-
-        @media (min-width: 769px) {
-            body { font-size: 18px; }
-            h1 { font-size: 32px; }
-            button {
-                padding: 15px 30px;
+        @media (min-width: 769px) { /* 针对大屏幕设备 */
+            .content {
                 font-size: 18px;
+            }
+            .button-container {
+                 font-size: 18px;
             }
         }
     </style>
@@ -39,11 +52,17 @@
 </head>
 <body>
     <h1>German Antonyms</h1>
-    <div id="word-container">
-        <span id="word"></span>
-        <span id="translation"></span>
+    <div class="content">
+        <div id="word-container">
+            <span id="word"></span>
+            <span id="translation"></span>
+        </div>
+
     </div>
-    <button id="show-antonym">show antonym</button>
+    <div class="button-container">
+        <button id="show-antonym">show antonym</button>
+    </div>
+
     <div id="progress">
         <span>seen: </span><span id="seen-count">0</span>
         <span>, remaining:</span><span id="remaining-count">0</span>
